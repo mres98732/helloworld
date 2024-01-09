@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: kytos-helloworld
+Version: 0.1
+Summary: Core NApps developed by the Kytos Team
+Home-page: http://github.com/kytos/helloworld
+Author: Kytos Team
+Author-email: of-ng-dev@ncc.unesp.br
+License: MIT
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: System :: Networking
+Requires-Dist: setuptools>=36.0.1
+Provides-Extra: dev
+Requires-Dist: coverage; extra == "dev"
+Requires-Dist: pip-tools; extra == "dev"
+Requires-Dist: yala; extra == "dev"
+Requires-Dist: tox; extra == "dev"

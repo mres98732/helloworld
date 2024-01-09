@@ -1,0 +1,11 @@
+{
+  "author": "mres98732",
+  "username": "mres98732",
+  "name": "helloworld",
+  "description": "My first napp",
+  "version": "1.0",
+  "napp_dependencies": [],
+  "license": "MIT",
+  "tags": ["experimental","tutorial","trial"],
+  "url": "https://github.com"
+}
